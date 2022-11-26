@@ -12,7 +12,7 @@ INRIA Person Dataset (http://pascal.inrialpes.fr/data/human/)
 
 ## Visual results
 
-![](C:\Users\fyh\Desktop\Workspace\HOG_detection\assets\examples.png)
+![](assets/examples.png)
 
 
 
