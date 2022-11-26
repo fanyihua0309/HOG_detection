@@ -1,0 +1,15 @@
+# pycharm
+.idea/
+.DS_Store
+__pycharm__/
+*.py[cod]
+*$py.class
+
+# model
+model/
+
+# data
+data/
+
+# results
+results/
